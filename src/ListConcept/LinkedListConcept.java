@@ -63,7 +63,7 @@ public class LinkedListConcept {
             System.out.println(x);
 
         }
-        ////while loop--
+        ////while loop-----
         System.out.println("***Using While Loop***");
         int num=0;
         while(ll.size()>num){
