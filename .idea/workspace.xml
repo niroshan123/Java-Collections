@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4d26dea-1c40-4031-8e03-c3bd6ef6202b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ListConcept/ArrayListIteration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListConcept/LinkedListConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListConcept/LinkedListConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Collections/ListConcept/LinkedListConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Collections/ListConcept/LinkedListConcept.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +41,22 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.LinkedListConcept">
+  <component name="RunManager" selected="Application.ArrayListIteratio">
     <configuration name="ArrayListConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListConcept.ArrayListConcept" />
+      <module name="Java_Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListConcept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListIteratio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListConcept.ArrayListIteratio" />
       <module name="Java_Collections" />
       <extension name="coverage">
         <pattern>
@@ -95,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListIteratio" />
         <item itemvalue="Application.LinkedListConcept" />
         <item itemvalue="Application.HashMapConcept" />
         <item itemvalue="Application.ArrayListConcept" />
@@ -174,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587354263704</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="LinkedListConcept Outputs added">
+      <created>1587354687762</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587354687762</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +217,8 @@
     <MESSAGE value="HashtableConcept completed" />
     <MESSAGE value="ArrayList Out puts added" />
     <MESSAGE value="HashMapConcept Outputs added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMapConcept Outputs added" />
+    <MESSAGE value="LinkedListConcept Outputs added" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedListConcept Outputs added" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -207,34 +230,34 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587284186650" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1587354262274">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1587354686427">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587354262274" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587354686427" />
     <state x="216" y="130" key="FileDocumentManager.FileCacheConflict" timestamp="1587345660631">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="216" y="130" key="FileDocumentManager.FileCacheConflict/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587345660631" />
-    <state width="1323" height="117" key="GridCell.Tab.0.bottom" timestamp="1587354632573">
+    <state width="1323" height="117" key="GridCell.Tab.0.bottom" timestamp="1587356319398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="117" key="GridCell.Tab.0.bottom/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587354632573" />
-    <state width="1323" height="117" key="GridCell.Tab.0.center" timestamp="1587354632573">
+    <state width="1323" height="117" key="GridCell.Tab.0.bottom/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587356319398" />
+    <state width="1323" height="117" key="GridCell.Tab.0.center" timestamp="1587356319398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="117" key="GridCell.Tab.0.center/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587354632573" />
-    <state width="1323" height="117" key="GridCell.Tab.0.left" timestamp="1587354632572">
+    <state width="1323" height="117" key="GridCell.Tab.0.center/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587356319398" />
+    <state width="1323" height="117" key="GridCell.Tab.0.left" timestamp="1587356319398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="117" key="GridCell.Tab.0.left/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587354632572" />
-    <state width="1323" height="117" key="GridCell.Tab.0.right" timestamp="1587354632573">
+    <state width="1323" height="117" key="GridCell.Tab.0.left/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587356319398" />
+    <state width="1323" height="117" key="GridCell.Tab.0.right" timestamp="1587356319398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="117" key="GridCell.Tab.0.right/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587354632573" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1587354266667">
+    <state width="1323" height="117" key="GridCell.Tab.0.right/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587356319398" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1587354692459">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587354266667" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/453.-768.1366.738@0.0.1366.738" timestamp="1587354692459" />
     <state x="65" y="0" key="new project wizard" timestamp="1587277266285">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
