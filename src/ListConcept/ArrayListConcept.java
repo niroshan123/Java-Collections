@@ -3,7 +3,6 @@ package ListConcept;
 
 
 
-import javafx.scene.layout.Border;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -11,9 +10,11 @@ import java.util.Iterator;
 public class ArrayListConcept {
 
     public static <E> void main(String[] args) {
-        int a[]=new int[5];//Ststic Array -Size is fixed
+        //Ststic Array -Size is fixed
+        /*int a[]=new int[5];
         a[0] = 15;
-        a[1] =20;
+        a[1] =20;*/
+
         //Dynamic Array --Array List;
 //          1.can contain duplicate values
 //          2.Maintain Insertion order
@@ -90,12 +91,19 @@ public class ArrayListConcept {
         System.out.println("values of new2 "+new1);
 
         System.out.println("Now add new2 in to new1");
+        System.out.println("Using for loop");
 
         new1.addAll(new2);
 
         for(int j=0;j<new1.size();j++){
 
             System.out.println(new1.get(j));
+
+        }
+        System.out.println("Same thing using Enhanced for loop");
+        for(String str:new1){
+
+            System.out.println(str);
 
         }
         System.out.println("Now values in the new1: " +new1);
